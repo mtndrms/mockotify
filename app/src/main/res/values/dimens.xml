@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="playlist_card_width">150dp</dimen>
+    <dimen name="playlist_card_height">190dp</dimen>
+    <dimen name="genre_card_width">0dp</dimen>
+    <dimen name="genre_card_height">100dp</dimen>
+</resources>
