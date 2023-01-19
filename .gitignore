@@ -32,5 +32,8 @@ google-services.json
 # Android Profiling
 *.hprof
 
-# Secret
+# Secrets
 app/src/main/java/com/eyyg/auralsphere/utils/Constants.kt
+mockotify-api/.env
+
+node_modules
